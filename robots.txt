@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /backup/
+Allow: /
+
+Sitemap: https://deargduy.github.io/Azalia/sitemap.xml
